@@ -13,3 +13,6 @@ Generates images based on user text prompts. It uses the ChatGPT API, DALL-E mod
    pip install boltiotai
 4. Paste your API Key Appropriately ( Recommended using replit.com for writing code and pasting the key in the secrets section ).
 5. Run the code.
+
+## Website screenshot
+![image](https://github.com/user-attachments/assets/d8dddc63-cee8-439d-9b7c-1483f4f38eb2)
