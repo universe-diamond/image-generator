@@ -1,0 +1,29 @@
+
+div.container{
+    text-align: left;
+    background-color: #ED3EF7;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px;
+}
+html body{
+    background-color:#BF2EF0;
+}
+h1.my-4{
+    text-align: center;
+}
+div.card-body{
+    background-color: #FFF6EA;
+}
+input#components{
+    background-color: #FFF6EA;
+}
+.card-header {
+    background-color: #FEECB3;
+}
+button.btn{
+    background-color: #47bbff;
+}
+button.btn.btn-secondary{
+    background-color: rgb(156, 156, 156);
+}
