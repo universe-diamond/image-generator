@@ -1,28 +1,28 @@
 
 div.container{
     text-align: left;
-    background-color: #ED3EF7;
+    background-color: #fcbbff;
     padding: 10px;
     border-radius: 10px;
     margin: 30px;
 }
 html body{
-    background-color:#BF2EF0;
+    background-color:#f6ddff;
 }
 h1.my-4{
     text-align: center;
 }
 div.card-body{
-    background-color: #FFF6EA;
+    background-color: #ffe7c7;
 }
 input#components{
-    background-color: #FFF6EA;
+    background-color: #ffffff;
 }
 .card-header {
-    background-color: #FEECB3;
+    background-color: #ffd859;
 }
 button.btn{
-    background-color: #47bbff;
+    background-color: #0088ff;
 }
 button.btn.btn-secondary{
     background-color: rgb(156, 156, 156);
