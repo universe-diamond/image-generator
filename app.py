@@ -2,7 +2,7 @@ from boltiotai import openai
 import os
 from flask import Flask, render_template, request
 
-openai.api_key = 'oia3k94smQk1LiU_DZjRppHvKv827tJ05o2yXMOpROg' #os.environ['OPENAI_API_KEY']
+openai.api_key = os.environ['OPENAI_API_KEY']
 
 def generate_tutorial(components):
   response = openai.Images.create(
