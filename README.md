@@ -15,4 +15,4 @@ Generates images based on user text prompts. It uses the ChatGPT API, DALL-E mod
 5. Run the code.
 
 ## Website screenshot
-![image](https://github.com/user-attachments/assets/d8dddc63-cee8-439d-9b7c-1483f4f38eb2)
+![image](https://github.com/user-attachments/assets/e5ef7b9b-d3ad-458e-9efa-6eba3aae230b)
